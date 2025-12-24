@@ -218,12 +218,12 @@ sudo systemctl status jenkins
 	
 #### 7. Setup Pipeline<br/>
 > - Create New Pipeline Job<br/>
->   - **Name:** EasyShop<br/>
+>   - **Name:** qbShop<br/>
 >   - **Type:** Pipeline<br/>
 > Press `Okey`<br/>
 
 > > In **General**<br/>
-> > - **Description:** EasyShop<br/>
+> > - **Description:** qbShop<br/>
 > > - **Check the box:** `GitHub project`<br/>
 > > - **GitHub Repo URL:** `https://github.com/<your user-name/qualibytes-ecommerce-app`<br/>
 >
